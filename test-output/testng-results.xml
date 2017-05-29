@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99046" started-at="2017-05-29T21:29:45Z" finished-at="2017-05-29T21:31:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99046" started-at="2017-05-29T21:29:45Z" finished-at="2017-05-29T21:31:24Z">
+      <class name="com.bestbuy.testing.tests.SignOnPage_Test">
+        <test-method status="PASS" signature="test_sigInPage()[pri:0, instance:com.bestbuy.testing.tests.SignOnPage_Test@5056dfcb]" name="test_sigInPage" duration-ms="98989" started-at="2017-05-29T16:29:45Z" finished-at="2017-05-29T16:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_sigInPage -->
+      </class> <!-- com.bestbuy.testing.tests.SignOnPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
